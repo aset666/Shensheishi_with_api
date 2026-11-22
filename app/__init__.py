@@ -1,0 +1,1 @@
+"""Shensheishi: Telegram voice assistant."""
